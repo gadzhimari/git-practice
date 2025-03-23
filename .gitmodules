@@ -1,3 +1,4 @@
 [submodule "hydra"]
 	path = hydra
 	url = git@github.com:gadzhimari/hydra.git
+	ignore = all
